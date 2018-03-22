@@ -1,3 +1,10 @@
+# this is the code of my internship programming online
+# input: abb,aaa
+# output: 2
+# input: ababaa,aba
+# output: 3+2=5
+# we try to find the largest difference in this code
+
 class solution(object):
     def __init__(self):
         self.sum = 0
