@@ -4,6 +4,7 @@
 # input: ababaa,aba
 # output: 3+2=5
 # we try to find the largest difference in this code
+# get：how to use class and function and learn more about global variable
 
 class solution(object):
     def __init__(self):
