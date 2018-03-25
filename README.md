@@ -1,2 +1,2 @@
 # daily
-this repository is for daily practice
+for daily practice
